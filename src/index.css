@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair", Georgia, "Times New Roman", serif;
+  --font-sans: "Open Sans", Arial, sans-serif;
+}
+
+@layer {
+  body {
+    color: #333;
+  }
+}
