@@ -17,8 +17,6 @@ const Project = ({ title, projImg }) => {
         <p className="">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum
           inventore hic ea eius necessitatibus, ipsam laboriosam, odio expedita
-          repudiandae mollitia fugit voluptas consectetur atque explicabo illo
-          optio voluptatibus eveniet fuga.
         </p>
       </div>
       <img src={projImg} alt={projectTitle} className="h-full w-full" />
